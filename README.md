@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Project Objective
 
-The objective of this project is to demonstrate the use of reactive forms in Angular using signals. The application allows adding items to a dynamic form and calculating the total value of the added items. This approach leverages Angular's capabilities to efficiently handle complex and reactive forms.
+The objective of this project is to demonstrate the use of reactive forms in Angular using signals. The application allows adding items to a dynamic form and calculating the total value of the added items. This approach leverages Angular's capabilities to efficiently handle complex and reactive forms. This application is a practical example of how to use reactive forms in Angular to build dynamic and reactive applications. The example was based on a tutorial from the Gentleman Programming youtube channel.
 
 ## Project Functionality
 
@@ -15,8 +15,6 @@ The objective of this project is to demonstrate the use of reactive forms in Ang
 3. **Total Value Calculation**: The application calculates and displays the total value of all added items in real-time, using signals to react to changes in the form.
 
 4. **Custom Components**: The application uses custom components such as `CustomInputComponent` and `FormChildComponent` to handle data input and form structure.
-
-This application is a practical example of how to use reactive forms in Angular to build dynamic and reactive applications. The example was based on a tutorial from the Gentleman Programming youtube channel.
 
 ## Development server
 
